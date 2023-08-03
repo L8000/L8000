@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @L8000
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 📫 add my discord if u are intrested in helping me to learn coding or want to talk SOAP#5618
+- 🌱 I’m currently learning python
+- 📫 add my discord if u are intrested in helping me to learn coding or want to talk pucko1
